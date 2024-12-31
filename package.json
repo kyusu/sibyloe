@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "type": "module",
   "license": "MIT",
+  "packageManager": "pnpm@9.10.0",
   "description": "A random album picker",
   "repository": {
     "type": "git",
